@@ -1,0 +1,48 @@
+body
+{
+	font-family: Arial,Verdana,sans-serif;
+	background-color: #74AFAD;
+	font-size: medium;
+	color: #FFF;
+}
+h2
+{
+	margin: 0px 550px 0px 550px;
+}
+#logo
+{
+	border: 1px dotted;
+}
+#login
+{
+	height: 20px;
+	width:	60px;
+	border: 2px;
+	border-radius: 2px;
+	float: right;
+	text-align: center;
+}
+#sign_in
+{
+	display: inline-block;
+	height: 20px;
+	width:	60px;
+	border: 2px;
+	border-radius: 2px;
+	float: right;
+}
+
+.tabs
+{
+	display: inline-block;
+	width: 130px;
+	height: 20px;
+	border: 1px dotted #000;
+	padding: 1px;
+	color: #FFF;
+	text-align: center;
+}
+a:visited
+{
+	color: #FFF;
+}
